@@ -3,6 +3,6 @@ Collection of my projects with ESP-01 mcu and sensor modules talking MQTT. All s
 
 Most of the code here is taken from library examples. Not much vibe coding since these date back to 2021 or so.
 
-# Licence
+# License
 
 MIT
